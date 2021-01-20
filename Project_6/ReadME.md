@@ -1,5 +1,12 @@
-# Project 6: Final Project
+# Project 4 Part 2 : Personal Portfolio built using HTML, CSS, Bootstrap & JavaScript with dark theme support.
 
-**Add a blog section** to your portfolio to attract potential employers.
+[Demo](https://portfolio-tarun.web.app)
 
-_Note_: CMS (Optional) (No marks awarded)
+<h3>Light Theme</h3>
+
+![Screenshot](screenshots/heroscreen_light.jpg?raw=true "Portfolio Light")
+
+<h3>Dark Theme</h3>
+
+![Screenshot](screenshots/heroscreen_dark.jpg?raw=true "Portfolio Dark")
+
